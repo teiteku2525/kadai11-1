@@ -1,3 +1,5 @@
+package kadai1;
+
 public class Matango {
     char matrix;
 
